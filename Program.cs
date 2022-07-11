@@ -13,6 +13,9 @@ namespace Calculator
             x = 15; y = 34;
             c = x + y;
             Console.WriteLine("c : " + c);
+
+            int d = x * y;
+            Console.WriteLine("d : " + d);
         }
     }
 }
