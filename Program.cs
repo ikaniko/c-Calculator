@@ -20,6 +20,7 @@ namespace Calculator
             int d = x * y;
             Console.WriteLine("d : " + d);
 
+<<<<<<< HEAD
 
 
             Console.WriteLine(" AXALI SILAMAZE TQVENI DEDAMOVTYAN !!!");
@@ -27,6 +28,9 @@ namespace Calculator
             Console.WriteLine("minus : " + (x - y));
 
 
+=======
+            Console.WriteLine("suka bliau");
+>>>>>>> gamravleba
         }
     }
 }
