@@ -16,6 +16,8 @@ namespace Calculator
 
             int d = x * y;
             Console.WriteLine("d : " + d);
+
+            Console.WriteLine("suka bliau");
         }
     }
 }
