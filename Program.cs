@@ -14,12 +14,14 @@ namespace Calculator
             c = x + y;
             Console.WriteLine("c : " + c);
 
-<<<<<<< HEAD
+
             Console.WriteLine("silamazes damateba ibiomat");
-=======
+
             int d = x * y;
             Console.WriteLine("d : " + d);
->>>>>>> gamravleba
+
+
+            Console.WriteLine(" AXALI SILAMAZE TQVENI DEDAMOVTYAN !!!");
         }
     }
 }
