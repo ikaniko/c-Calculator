@@ -13,6 +13,8 @@ namespace Calculator
             x = 15; y = 34;
             c = x + y;
             Console.WriteLine("c : " + c);
+
+            Console.WriteLine("silamazes damateba ibiomat");
         }
     }
 }
