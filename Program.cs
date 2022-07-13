@@ -33,11 +33,10 @@ namespace Calculator
 
             Console.WriteLine("pshel naxui ruski ia vashu mamu, rot ebal");
 
-<<<<<<< HEAD
-int xyi = 123; int pidaras = 5432;
-=======
+
+ int pidaras = 5432;
             int xyi = 123456456;
->>>>>>> d567f94fde72dff94eb6d29b3e4464b2854205ca
+
 
         }
     }
