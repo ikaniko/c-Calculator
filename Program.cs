@@ -29,7 +29,7 @@ namespace Calculator
 
 
 
-            Console.WriteLine("suka bliau");
+            Console.WriteLine("suka bliau, idi naxui pidaras");
 
         }
     }
