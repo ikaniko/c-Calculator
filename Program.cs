@@ -31,6 +31,8 @@ namespace Calculator
 
             Console.WriteLine("suka bliau");
 
+            Console.WriteLine("pshel naxui ruski");
+
         }
     }
 }
