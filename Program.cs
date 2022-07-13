@@ -31,7 +31,7 @@ namespace Calculator
 
             Console.WriteLine("suka bliau, idi naxui pidaras");
 
-            Console.WriteLine("pshel naxui ruski ia vashu mamu");
+            Console.WriteLine("pshel naxui ruski ia vashu mamu, rot ebal");
 
         }
     }
