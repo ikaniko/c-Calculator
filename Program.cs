@@ -33,7 +33,7 @@ namespace Calculator
 
             Console.WriteLine("pshel naxui ruski ia vashu mamu, rot ebal");
 
-int xyi = 123;
+int xyi = 123; int pidaras = 5432;
 
         }
     }
